@@ -1,0 +1,87 @@
+<html>
+<head>
+    <title>iisnode logs</title>
+    <style type="text/css">
+        body
+        {
+            font-family: "Trebuchet MS" , Arial, Helvetica, sans-serif;
+        }
+        table
+        {
+            border-collapse: collapse;
+        }
+        td, th
+        {
+            border: 1px solid lightgray;
+            padding: 3px 7px 2px 7px;
+        }
+        th
+        {
+            text-align: left;
+            padding-top: 5px;
+            padding-bottom: 4px;
+            background-color: Gray;
+            color: #ffffff;
+        }
+        td.stderr
+        {
+            color: Red;
+        }
+    </style>
+</head>
+<body>
+    <table id="logFilesTable">
+        <tr>
+            <th>
+                Computer name
+            </th>
+            <th>
+                PID
+            </th>
+            <th>
+                Type
+            </th>
+            <th>
+                Created
+            </th>
+            <th>
+                Link
+            </th>
+        </tr>
+    </table>
+    <p id="lastUpdated"></p>
+    <script type="text/javascript">
+
+        // this is replaced with actual data at runtime by code in interceptor.js
+        var logFiles = [{"file":"OCCL-VM-001-2680-stdout-1548085384380.txt","computername":"OCCL-VM-001","pid":2680,"type":"stdout","created":1548085384380},{"file":"OCCL-VM-001-4872-stdout-1548230124768.txt","computername":"OCCL-VM-001","pid":4872,"type":"stdout","created":1548230124768},{"file":"OCCL-VM-001-5036-stdout-1548074782690.txt","computername":"OCCL-VM-001","pid":5036,"type":"stdout","created":1548074782690},{"file":"OCCL-VM-001-5036-stdout-1548074905500.txt","computername":"OCCL-VM-001","pid":5036,"type":"stdout","created":1548074905500},{"file":"OCCL-VM-001-5036-stdout-1548074912854.txt","computername":"OCCL-VM-001","pid":5036,"type":"stdout","created":1548074912854},{"file":"OCCL-VM-001-5036-stdout-1548074931138.txt","computername":"OCCL-VM-001","pid":5036,"type":"stdout","created":1548074931138},{"file":"OCCL-VM-001-5036-stdout-1548074941347.txt","computername":"OCCL-VM-001","pid":5036,"type":"stdout","created":1548074941347},{"file":"OCCL-VM-001-5036-stdout-1548074993416.txt","computername":"OCCL-VM-001","pid":5036,"type":"stdout","created":1548074993416},{"file":"OCCL-VM-001-5532-stdout-1548220915576.txt","computername":"OCCL-VM-001","pid":5532,"type":"stdout","created":1548220915576},{"file":"OCCL-VM-001-8040-stdout-1548229355717.txt","computername":"OCCL-VM-001","pid":8040,"type":"stdout","created":1548229355717}];
+        var lastUpdated = 1548230125282;
+        var date = new Date();
+
+        date.setTime(lastUpdated);
+        document.getElementById('lastUpdated').innerHTML = 'Index was last updated ' + date;
+
+        logFiles.sort(function (a, b) {
+            return b.created - a.created;
+        });
+
+        var logFilesTable = document.getElementById("logFilesTable");
+        for (var i = 0; i < logFiles.length; i++) {
+            var logFile = logFiles[i];
+            date.setTime(logFile.created);
+            var row = logFilesTable.insertRow(-1);
+            var computerNameCell = row.insertCell(0);
+            var pidCell = row.insertCell(1);
+            var typeCell = row.insertCell(2);
+            var dateCell = row.insertCell(3);
+            var logCell = row.insertCell(4);
+            computerNameCell.innerHTML = logFile.computername;
+            pidCell.innerHTML = logFile.pid.toString();
+            typeCell.innerHTML = logFile.type;
+            typeCell.setAttribute('class', logFile.type);
+            dateCell.innerHTML = date.toString();
+            logCell.innerHTML = '<a href="' + logFile.file + '">log</a>';
+        };
+
+    </script>
+</body>
+</html>

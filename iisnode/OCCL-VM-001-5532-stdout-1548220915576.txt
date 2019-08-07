@@ -1,0 +1,927 @@
+Server running on port   \\.\pipe\fc5d7b05-f9b3-49d3-aa44-1f249c5fffcd
+===========================================================
+{ endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+===========================================================
+[0mPOST /node/NodeEndpoint/users/newsletter [32m200 [0m70.202 ms - -[0m
+===========================================================
+{ endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+===========================================================
+[0mPOST /node/NodeEndpoint/users/newsletter [32m200 [0m1.887 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 0.5107245156376918
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.6170135913927
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.4442454835897123
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 3.25258318777175
+test:  3
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.0973194154815025
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.8923800317964736
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 4.7170376537421665
+test:  4
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 3.4299083952890275
+test:  3
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 5.316183943120273
+test:  5
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 4.503291270373492
+test:  4
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 3.1722435574859817
+test:  3
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.3374263202281704
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.9374266953526522
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.355842309830145
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.398780328536597
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 10.261107768664356
+test:  10
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: true
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m766.939 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 3.4200694317744014
+test:  3
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.425311153863162
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m350.634 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m355.100 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m367.869 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m398.573 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m332.221 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m345.818 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m358.522 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m199.473 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m217.246 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m234.104 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m251.911 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 0.6860411220691629
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.712580131685246
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.321208604239268
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m301.677 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m322.274 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m336.918 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m359.336 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m361.359 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m375.368 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m393.749 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m182.787 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m197.645 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 0.45529193812775415
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.179352747809661
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.484967524840971
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.3739087498135305
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.850251236106816
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.3401995092091075
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m43.373 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m63.866 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m77.752 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m100.210 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m140.133 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m170.917 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 0.8990736187483093
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.592271854379596
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.0757566562927385
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.2193407875161204
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.5029350272085905
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.8881640057542817
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m43.895 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m60.782 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m73.389 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m87.399 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m101.146 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m134.239 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 1.091829543691535
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.5592792766563389
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m49.439 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m82.191 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 2.1648693392424274
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.809035534726199
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m43.320 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m103.453 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 1.3079522523006584
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.5604533757111436
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.13871732151437235
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m65.881 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m134.234 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m168.934 ms - -[0m
+===========================================================
+{ endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+===========================================================
+[0mPOST /node/NodeEndpoint/users/newsletter [32m200 [0m283.339 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 1.2700640297491603
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m44.876 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 1.8000738003923826
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.39056575468414
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.4903278051121758
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.7840943430863903
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.8593891577635786
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.7157439426632605
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m53.447 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m73.391 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m91.572 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m105.980 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m132.819 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m147.947 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 2.5822682744520558
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m43.043 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 1.2908089509493366
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.350221040259766
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.030206130192361
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.2605509639062675
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 6.066277997715593
+test:  6
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: true
+inside sendAcceleration method
+Acceleration data : 0.6754943106559366
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m43.591 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m59.626 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m74.281 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m88.945 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m114.253 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m122.739 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 3.294080897709332
+test:  3
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.6240601698534086
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.917683054190219
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 4.622051596374397
+test:  4
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.0087200886472925
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 5.009917319785981
+test:  5
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.0697243890083765
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.5912982329440986
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.8116691329815416
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m42.537 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m66.992 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m81.944 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m98.691 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m113.948 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m147.955 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m157.442 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m171.934 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m194.284 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 1.3852363417710316
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 3.0295841546969364
+test:  3
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.6001344479131944
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.34570208452539647
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.0654798856982515
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.3270675524625906
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.7598352145561958
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.1698807726263734
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m325.533 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m58.743 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m72.064 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m86.457 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m101.274 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m119.554 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m133.401 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m148.157 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 0.060622754505701794
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.8347458806077055
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 2.471482536248411
+test:  2
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 1.5472607411212809
+test:  1
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.8519724040514034
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.27352393804404096
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.6435869673342773
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m254.738 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m57.050 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m77.720 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m97.268 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m111.507 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m126.948 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m141.255 ms - -[0m
+inside sendAcceleration method
+Acceleration data : 3.183000701564736
+test:  3
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.4276762970651574
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.9644262395722053
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+inside sendAcceleration method
+Acceleration data : 0.45472680336890836
+test:  0
+test:  { endpoint: 'https://fcm.googleapis.com/fcm/send/fUtQa1cI2Ys:APA91bHwOVb-2E3IU4TbGUeaROy8q0AwxBMx6PfCAwUmqD4ep9MFfQU70MlySUqi_Oe2zgm9p2odfr7lylG5sz10ZgZvASS7MhHP3fVCzV0ye2u1qX14ZEjtyYCM3lqURzn2XImot_oV',
+  expirationTime: null,
+  keys: 
+   { p256dh: 'BC5zzHgllirFxdBwlz3RwZe0gfK7ug0AWqI0_ADWDBQvBlPK0l1mj-vX1q_xrXeDyBCKQwrPkgkVxR0DDA3pVpo',
+     auth: '41T07-Y7tUzWOZZNG_M_AA' } }
+test: false
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m326.551 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m157.604 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m171.533 ms - -[0m
+message sent
+[0mPOST /node/NodeEndpoint/users/sendAcceleration [32m200 [0m187.125 ms - -[0m
